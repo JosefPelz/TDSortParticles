@@ -1,0 +1,212 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\conta\Documents\TDProjects\cuda\sortParticels>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\bin\nvcc.exe" -gencode=arch=compute_35,code=\"sm_35,compute_35\" -gencode=arch=compute_37,code=\"sm_37,compute_37\" -gencode=arch=compute_50,code=\"sm_50,compute_50\" -gencode=arch=compute_52,code=\"sm_52,compute_52\" -gencode=arch=compute_60,code=\"sm_60,compute_60\" -gencode=arch=compute_61,code=\"sm_61,compute_61\" -gencode=arch=compute_62,code=\"sm_62,compute_62\" -gencode=arch=compute_70,code=\"sm_70,compute_70\" -gencode=arch=compute_75,code=\"sm_75,compute_75\" -gencode=arch=compute_80,code=\"sm_80,compute_80\" -gencode=arch=compute_80,code=\"compute_80,compute_80\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\x64" -x cu   -I. -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\include"     --keep-dir x64\Release  -maxrregcount=0  --machine 64 --compile -cudart shared    -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_WINDLL -D_UNICODE -DUNICODE -Xcompiler "/EHsc /W3 /nologo /O2 /FdRelease\vc143.pdb /FS   /MD " -o C:\Users\conta\Documents\TDProjects\cuda\sortParticels\x64\Release\kernel.cu.obj "C:\Users\conta\Documents\TDProjects\cuda\sortParticels\kernel.cu" 
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1708): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1709): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1710): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1711): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1769): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1770): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1771): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1772): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1773): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1708): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1709): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1710): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1711): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1769): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1770): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1771): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1772): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1773): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1708): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1709): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1710): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1711): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1769): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1770): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1771): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1772): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1773): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1708): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1709): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1710): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1711): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1769): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1770): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1771): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1772): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1773): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1708): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1709): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1710): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1711): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1769): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1770): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1771): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1772): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1773): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1708): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1709): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1710): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1711): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1769): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1770): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1771): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1772): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1773): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1708): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1709): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1710): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1711): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1769): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1770): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1771): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1772): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1773): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1708): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1709): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1710): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1711): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1769): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1770): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1771): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1772): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1773): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1708): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1709): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1710): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1711): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1769): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1770): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1771): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1772): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1773): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1708): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1709): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1710): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1711): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1769): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1770): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1771): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1772): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1773): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1708): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1709): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1710): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1711): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1769): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1770): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1771): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1772): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+C:\Users\conta\Documents\TDProjects\cuda\sortParticels\CPlusPlus_Common.h(1773): warning #1427-D: offsetof applied to a type other than a standard-layout class
+  
+CUDACOMPILE : nvcc warning : The 'compute_35', 'compute_37', 'sm_35', and 'sm_37' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
+  kernel.cu
+  sortParticles.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\format(43): warning STL4038: The contents of <format> are available only with C++20 or later.
+     Creating library C:\Users\conta\Documents\TDProjects\cuda\sortParticels\Release\sortParticles.lib and object C:\Users\conta\Documents\TDProjects\cuda\sortParticels\Release\sortParticles.exp
+  Generating code
+  1 of 69 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sortParticles.vcxproj -> C:\Users\conta\Documents\TDProjects\cuda\sortParticels\Release\sortParticles.dll
